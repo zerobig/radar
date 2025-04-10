@@ -6,17 +6,17 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>7288dcd6-adeb-4dcb-bc7f-a0be334cc2d1</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.ТранзакцияБлокПопыткаИсключение" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.НачатьТранзакцию" category="Object">
 				<xr:TypeId>e4b86340-a7e9-475f-a1f2-e8388a97141e</xr:TypeId>
 				<xr:ValueId>b944eaa1-1442-44f3-a4e1-20c93fcd34ea</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>ТранзакцияБлокПопыткаИсключение</Name>
+			<Name>НачатьТранзакцию</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Транзакция блок попытка исключение</v8:content>
+					<v8:content>Начать транзакцию</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
