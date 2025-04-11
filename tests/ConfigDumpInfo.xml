@@ -1,9 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.19">
 	<ConfigVersions>
-		<Metadata name="CommonModule.РадарЮТ_ТранзакцияБлокПопыткаИсключениеТест" id="ba943e59-c023-41af-b8ba-43ee3311fd02" configVersion="ec99da37806108aa2204d5aa3e67b4148eb299fd"/>
-		<Metadata name="CommonModule.РадарЮТ_ТранзакцияБлокПопыткаИсключениеТест.Module" id="ba943e59-c023-41af-b8ba-43ee3311fd02.0" configVersion="3d70da5e62532c24cec3dc9261e2768603a0b63e"/>
-		<Metadata name="Configuration.РадарЮнитТесты" id="c3356930-67de-405e-9f08-4310a73c5678" configVersion="2ca5f7d35203684ae04a5f997330044898c95918"/>
+		<Metadata name="CommonModule.РадарЮТ_ЗафиксироватьТранзакцию" id="22ad8d0a-52df-4359-b8bb-9803a9b5ff76" configVersion="b9df7bdc18b5ae9107aea67e311acff92add630b"/>
+		<Metadata name="CommonModule.РадарЮТ_ЗафиксироватьТранзакцию.Module" id="22ad8d0a-52df-4359-b8bb-9803a9b5ff76.0" configVersion="82ac543840f25fe68fde0d5c7087c45225f0eba5"/>
+		<Metadata name="CommonModule.РадарЮТ_НачатьТранзакцию" id="ba943e59-c023-41af-b8ba-43ee3311fd02" configVersion="835911daaa0291cac101706870f949c09490ec3a"/>
+		<Metadata name="CommonModule.РадарЮТ_НачатьТранзакцию.Module" id="ba943e59-c023-41af-b8ba-43ee3311fd02.0" configVersion="3d70da5e62532c24cec3dc9261e2768603a0b63e"/>
+		<Metadata name="Configuration.РадарЮнитТесты" id="c3356930-67de-405e-9f08-4310a73c5678" configVersion="6522b33c6fc773e40dbcf8be10e5aef49a0e50f1"/>
 		<Metadata name="Language.Русский" id="ae44d6d3-14ba-4725-8869-36c3d9ec1b5c" configVersion="f8613bae6d13b145e423a35b0d1aaf2fc71e0a03"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

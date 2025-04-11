@@ -62,7 +62,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<CommonModule>РадарЮТ_ТранзакцияБлокПопыткаИсключениеТест</CommonModule>
+			<CommonModule>РадарЮТ_НачатьТранзакцию</CommonModule>
+			<CommonModule>РадарЮТ_ЗафиксироватьТранзакцию</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
