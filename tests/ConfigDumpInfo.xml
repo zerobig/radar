@@ -4,7 +4,7 @@
 		<Metadata name="CommonModule.РадарЮТ_ЗафиксироватьТранзакцию" id="22ad8d0a-52df-4359-b8bb-9803a9b5ff76" configVersion="7de2d9f53ae8f5cee6f8149d318ef857ab1ba618"/>
 		<Metadata name="CommonModule.РадарЮТ_ЗафиксироватьТранзакцию.Module" id="22ad8d0a-52df-4359-b8bb-9803a9b5ff76.0" configVersion="fcba324e4763345e9046bb69d8f67e22d0d5105b"/>
 		<Metadata name="CommonModule.РадарЮТ_НачатьТранзакцию" id="ba943e59-c023-41af-b8ba-43ee3311fd02" configVersion="87edd72d027ed65543927a1f1839c1b354e0a746"/>
-		<Metadata name="CommonModule.РадарЮТ_НачатьТранзакцию.Module" id="ba943e59-c023-41af-b8ba-43ee3311fd02.0" configVersion="acf4733e7591c07568194808208eb24ffc5f59f8"/>
+		<Metadata name="CommonModule.РадарЮТ_НачатьТранзакцию.Module" id="ba943e59-c023-41af-b8ba-43ee3311fd02.0" configVersion="d6782abe2fc573e031c5fb42726bc3b8bd7c4154"/>
 		<Metadata name="CommonModule.РадарЮТ_ОтменитьТранзакцию" id="86fa7076-720e-4ed1-9ed2-5d7a61fc1c06" configVersion="cd9a35dcc21d84b757701e4cb94dfe285f0fa093"/>
 		<Metadata name="CommonModule.РадарЮТ_ОтменитьТранзакцию.Module" id="86fa7076-720e-4ed1-9ed2-5d7a61fc1c06.0" configVersion="e1e64dd7c5097197ac0e8a901f143f822f237e39"/>
 		<Metadata name="Configuration.РадарЮнитТесты" id="c3356930-67de-405e-9f08-4310a73c5678" configVersion="0eeaf1ae36fd88a36f5726d6fe371cb15e086c99"/>
