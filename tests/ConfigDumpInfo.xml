@@ -7,8 +7,8 @@
 		<Metadata name="CommonModule.РадарЮТ_НачатьТранзакцию.Module" id="ba943e59-c023-41af-b8ba-43ee3311fd02.0" configVersion="d6782abe2fc573e031c5fb42726bc3b8bd7c4154"/>
 		<Metadata name="CommonModule.РадарЮТ_ОтменитьТранзакцию" id="86fa7076-720e-4ed1-9ed2-5d7a61fc1c06" configVersion="cd9a35dcc21d84b757701e4cb94dfe285f0fa093"/>
 		<Metadata name="CommonModule.РадарЮТ_ОтменитьТранзакцию.Module" id="86fa7076-720e-4ed1-9ed2-5d7a61fc1c06.0" configVersion="e1e64dd7c5097197ac0e8a901f143f822f237e39"/>
-		<Metadata name="CommonModule.РадарЮТ_СтруктураКонструкторСлишкомМногоКлючей" id="0e936f02-5089-4ac2-b848-71f2bc941cb7" configVersion="f95cc3540b49baa826f93510810be4b78f75e350"/>
-		<Metadata name="CommonModule.РадарЮТ_СтруктураКонструкторСлишкомМногоКлючей.Module" id="0e936f02-5089-4ac2-b848-71f2bc941cb7.0" configVersion="ab009a6a985d992cac345963c2c1f4f9e7a0d0fe"/>
+		<Metadata name="CommonModule.РадарЮТ_СтруктураКонструктор" id="0e936f02-5089-4ac2-b848-71f2bc941cb7" configVersion="af2fd6f4a8508c8a89f645c2beacdb04fa5db051"/>
+		<Metadata name="CommonModule.РадарЮТ_СтруктураКонструктор.Module" id="0e936f02-5089-4ac2-b848-71f2bc941cb7.0" configVersion="f7fddccec9b81d0abab6e95b45cae84104bfce44"/>
 		<Metadata name="Configuration.РадарЮнитТесты" id="c3356930-67de-405e-9f08-4310a73c5678" configVersion="9775f4a0cef5fb31ed2e7e9f4cc4838456c27b84"/>
 		<Metadata name="Language.Русский" id="ae44d6d3-14ba-4725-8869-36c3d9ec1b5c" configVersion="f8613bae6d13b145e423a35b0d1aaf2fc71e0a03"/>
 	</ConfigVersions>

@@ -56,7 +56,7 @@
 			<CommonModule>РадарЮТ_НачатьТранзакцию</CommonModule>
 			<CommonModule>РадарЮТ_ЗафиксироватьТранзакцию</CommonModule>
 			<CommonModule>РадарЮТ_ОтменитьТранзакцию</CommonModule>
-			<CommonModule>РадарЮТ_СтруктураКонструкторСлишкомМногоКлючей</CommonModule>
+			<CommonModule>РадарЮТ_СтруктураКонструктор</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

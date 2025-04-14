@@ -6,17 +6,17 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>2e683f5f-2145-40f9-a3fe-2ef1b2fcb97f</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.СтруктураКонструкторСлишкомМногоКлючей" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.СтруктураКонструктор" category="Object">
 				<xr:TypeId>69d48cae-77e8-4543-b551-c2cb269b0e9a</xr:TypeId>
 				<xr:ValueId>5516d5bc-5e47-48ab-98ce-213d63f1a4e2</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>СтруктураКонструкторСлишкомМногоКлючей</Name>
+			<Name>СтруктураКонструктор</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Структура конструктор слишком много ключей</v8:content>
+					<v8:content>Структура конструктор</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
